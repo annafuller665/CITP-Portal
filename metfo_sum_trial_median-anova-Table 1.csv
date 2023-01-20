@@ -1,0 +1,137 @@
+
+,Strain_Conc,X,Y,Source,DF,SS,Mean Square,F ratio,Prob > F,Between,Within
+,AF16_0,Lab_Date,KM median,Lab_Date,10,234.074074,23.4074,3.5111,0.0125,68.7%,31.3%
+,AF16_0,Lab_Date,KM median,Error,16,106.666667,6.6667,,,,
+,AF16_0,Lab_Date,KM median,C. Total,26,340.740741,,,,,
+,AF16_100,Lab_Date,KM median,Lab_Date,2,88.888889,44.4444,50,0.0002,94.3%,5.7%
+,AF16_100,Lab_Date,KM median,Error,6,5.333333,0.8889,,,,
+,AF16_100,Lab_Date,KM median,C. Total,8,94.222222,,,,,
+,AF16_1000,Lab_Date,KM median,Lab_Date,2,174.222222,87.1111,24.5,0.0013,89.1%,10.9%
+,AF16_1000,Lab_Date,KM median,Error,6,21.333333,3.5556,,,,
+,AF16_1000,Lab_Date,KM median,C. Total,8,195.555556,,,,,
+,AF16_5000,Lab_Date,KM median,Lab_Date,2,74.666667,37.3333,8.1951,0.0192,73.2%,26.8%
+,AF16_5000,Lab_Date,KM median,Error,6,27.333333,4.5556,,,,
+,AF16_5000,Lab_Date,KM median,C. Total,8,102,,,,,
+,AF16_10000,Lab_Date,KM median,Lab_Date,2,26.208333,13.1042,2.1365,0.2135,46.1%,53.9%
+,AF16_10000,Lab_Date,KM median,Error,5,30.666667,6.1333,,,,
+,AF16_10000,Lab_Date,KM median,C. Total,7,56.875,,,,,
+,AF16_50000,Lab_Date,KM median,Lab_Date,7,262.583333,37.5119,50.5778,<.0001,97.3%,2.7%
+,AF16_50000,Lab_Date,KM median,Error,10,7.416667,0.7417,,,,
+,AF16_50000,Lab_Date,KM median,C. Total,17,270,,,,,
+,ED3092_0,Lab_Date,KM median,Lab_Date,7,250.154762,35.7364,4.1326,0.0133,69.0%,31.0%
+,ED3092_0,Lab_Date,KM median,Error,13,112.416667,8.6474,,,,
+,ED3092_0,Lab_Date,KM median,C. Total,20,362.571429,,,,,
+,ED3092_100,Lab_Date,KM median,Lab_Date,2,37.047619,18.5238,27.7857,0.0045,93.3%,6.7%
+,ED3092_100,Lab_Date,KM median,Error,4,2.666667,0.6667,,,,
+,ED3092_100,Lab_Date,KM median,C. Total,6,39.714286,,,,,
+,ED3092_1000,Lab_Date,KM median,Lab_Date,2,23.047619,11.5238,3.6391,0.1258,64.5%,35.5%
+,ED3092_1000,Lab_Date,KM median,Error,4,12.666667,3.1667,,,,
+,ED3092_1000,Lab_Date,KM median,C. Total,6,35.714286,,,,,
+,ED3092_5000,Lab_Date,KM median,Lab_Date,2,110.333333,55.1667,7.5657,0.0437,79.1%,20.9%
+,ED3092_5000,Lab_Date,KM median,Error,4,29.166667,7.2917,,,,
+,ED3092_5000,Lab_Date,KM median,C. Total,6,139.5,,,,,
+,ED3092_10000,Lab_Date,KM median,Lab_Date,1,0.666667,0.6667,0.1429,0.7247,3.4%,96.6%
+,ED3092_10000,Lab_Date,KM median,Error,4,18.666667,4.6667,,,,
+,ED3092_10000,Lab_Date,KM median,C. Total,5,19.333333,,,,,
+,ED3092_50000,Lab_Date,KM median,Lab_Date,4,147.233333,36.8083,7.4864,0.0047,75.0%,25.0%
+,ED3092_50000,Lab_Date,KM median,Error,10,49.166667,4.9167,,,,
+,ED3092_50000,Lab_Date,KM median,C. Total,14,196.4,,,,,
+,HK104_0,Lab_Date,KM median,Lab_Date,7,360.492754,51.499,3.5791,0.0182,62.6%,37.4%
+,HK104_0,Lab_Date,KM median,Error,15,215.833333,14.3889,,,,
+,HK104_0,Lab_Date,KM median,C. Total,22,576.326087,,,,,
+,HK104_100,Lab_Date,KM median,Lab_Date,2,168.833333,84.4167,2.8296,0.1507,53.1%,46.9%
+,HK104_100,Lab_Date,KM median,Error,5,149.166667,29.8333,,,,
+,HK104_100,Lab_Date,KM median,C. Total,7,318,,,,,
+,HK104_1000,Lab_Date,KM median,Lab_Date,2,208.666667,104.3333,3.3584,0.119,57.3%,42.7%
+,HK104_1000,Lab_Date,KM median,Error,5,155.333333,31.0667,,,,
+,HK104_1000,Lab_Date,KM median,C. Total,7,364,,,,,
+,HK104_5000,Lab_Date,KM median,Lab_Date,2,290.190476,145.0952,5.3409,0.0742,72.8%,27.2%
+,HK104_5000,Lab_Date,KM median,Error,4,108.666667,27.1667,,,,
+,HK104_5000,Lab_Date,KM median,C. Total,6,398.857143,,,,,
+,HK104_10000,Lab_Date,KM median,Lab_Date,2,283.722222,141.8611,4.437,0.0656,59.7%,40.3%
+,HK104_10000,Lab_Date,KM median,Error,6,191.833333,31.9722,,,,
+,HK104_10000,Lab_Date,KM median,C. Total,8,475.555556,,,,,
+,HK104_50000,Lab_Date,KM median,Lab_Date,4,481.6,120.4,14.8033,0.0003,85.6%,14.4%
+,HK104_50000,Lab_Date,KM median,Error,10,81.333333,8.1333,,,,
+,HK104_50000,Lab_Date,KM median,C. Total,14,562.933333,,,,,
+,JU1373_0,Lab_Date,KM median,Lab_Date,10,104.666667,10.4667,3.9873,0.007,71.4%,28.6%
+,JU1373_0,Lab_Date,KM median,Error,16,42,2.625,,,,
+,JU1373_0,Lab_Date,KM median,C. Total,26,146.666667,,,,,
+,JU1373_100,Lab_Date,KM median,Lab_Date,2,20.666667,10.3333,11.625,0.0086,79.5%,20.5%
+,JU1373_100,Lab_Date,KM median,Error,6,5.333333,0.8889,,,,
+,JU1373_100,Lab_Date,KM median,C. Total,8,26,,,,,
+,JU1373_1000,Lab_Date,KM median,Lab_Date,2,24.666667,12.3333,5.55,0.0432,64.9%,35.1%
+,JU1373_1000,Lab_Date,KM median,Error,6,13.333333,2.2222,,,,
+,JU1373_1000,Lab_Date,KM median,C. Total,8,38,,,,,
+,JU1373_5000,Lab_Date,KM median,Lab_Date,2,16.222222,8.1111,6.0833,0.036,67.0%,33.0%
+,JU1373_5000,Lab_Date,KM median,Error,6,8,1.3333,,,,
+,JU1373_5000,Lab_Date,KM median,C. Total,8,24.222222,,,,,
+,JU1373_10000,Lab_Date,KM median,Lab_Date,2,34.666667,17.3333,9.1765,0.015,75.4%,24.6%
+,JU1373_10000,Lab_Date,KM median,Error,6,11.333333,1.8889,,,,
+,JU1373_10000,Lab_Date,KM median,C. Total,8,46,,,,,
+,JU1373_50000,Lab_Date,KM median,Lab_Date,7,182.861111,26.123,12.1975,0.0004,89.5%,10.5%
+,JU1373_50000,Lab_Date,KM median,Error,10,21.416667,2.1417,,,,
+,JU1373_50000,Lab_Date,KM median,C. Total,17,204.277778,,,,,
+,JU1630_0,Lab_Date,KM median,Lab_Date,7,225.5,32.2143,4.373,0.0079,67.1%,32.9%
+,JU1630_0,Lab_Date,KM median,Error,15,110.5,7.3667,,,,
+,JU1630_0,Lab_Date,KM median,C. Total,22,336,,,,,
+,JU1630_100,Lab_Date,KM median,Lab_Date,2,73.875,36.9375,23.0859,0.003,90.2%,9.8%
+,JU1630_100,Lab_Date,KM median,Error,5,8,1.6,,,,
+,JU1630_100,Lab_Date,KM median,C. Total,7,81.875,,,,,
+,JU1630_1000,Lab_Date,KM median,Lab_Date,2,80.833333,40.4167,23.3173,0.0029,90.3%,9.7%
+,JU1630_1000,Lab_Date,KM median,Error,5,8.666667,1.7333,,,,
+,JU1630_1000,Lab_Date,KM median,C. Total,7,89.5,,,,,
+,JU1630_5000,Lab_Date,KM median,Lab_Date,2,60,30,75,0.0002,96.8%,3.2%
+,JU1630_5000,Lab_Date,KM median,Error,5,2,0.4,,,,
+,JU1630_5000,Lab_Date,KM median,C. Total,7,62,,,,,
+,JU1630_10000,Lab_Date,KM median,Lab_Date,2,17.333333,8.6667,9.2857,0.0207,78.8%,21.2%
+,JU1630_10000,Lab_Date,KM median,Error,5,4.666667,0.9333,,,,
+,JU1630_10000,Lab_Date,KM median,C. Total,7,22,,,,,
+,JU1630_50000,Lab_Date,KM median,Lab_Date,4,60,15,6.8182,0.0065,73.2%,26.8%
+,JU1630_50000,Lab_Date,KM median,Error,10,22,2.2,,,,
+,JU1630_50000,Lab_Date,KM median,C. Total,14,82,,,,,
+,JU775_0,Lab_Date,KM median,Lab_Date,10,903.33871,90.3339,14.17,<.0001,87.6%,12.4%
+,JU775_0,Lab_Date,KM median,Error,20,127.5,6.375,,,,
+,JU775_0,Lab_Date,KM median,C. Total,30,1030.83871,,,,,
+,JU775_50000,Lab_Date,KM median,Lab_Date,9,584.712963,64.9681,9.9575,<.0001,84.1%,15.9%
+,JU775_50000,Lab_Date,KM median,Error,17,110.916667,6.5245,,,,
+,JU775_50000,Lab_Date,KM median,C. Total,26,695.62963,,,,,
+,JU775_70000,Lab_Date,KM median,Lab_Date,10,699.253788,69.9254,18.3593,<.0001,89.3%,10.7%
+,JU775_70000,Lab_Date,KM median,Error,22,83.791667,3.8087,,,,
+,JU775_70000,Lab_Date,KM median,C. Total,32,783.045455,,,,,
+,MY16_0,Lab_Date,KM median,Lab_Date,11,440.051075,40.0046,19.5312,<.0001,91.9%,8.1%
+,MY16_0,Lab_Date,KM median,Error,19,38.916667,2.0482,,,,
+,MY16_0,Lab_Date,KM median,C. Total,30,478.967742,,,,,
+,MY16_50000,Lab_Date,KM median,Lab_Date,10,456.429487,45.6429,15.0747,<.0001,91.0%,9.0%
+,MY16_50000,Lab_Date,KM median,Error,15,45.416667,3.0278,,,,
+,MY16_50000,Lab_Date,KM median,C. Total,25,501.846154,,,,,
+,MY16_70000,Lab_Date,KM median,Lab_Date,11,370.47342,33.6794,28.8378,<.0001,94.9%,5.1%
+,MY16_70000,Lab_Date,KM median,Error,17,19.854167,1.1679,,,,
+,MY16_70000,Lab_Date,KM median,C. Total,28,390.327586,,,,,
+,N2-PD1073_0,Lab_Date,KM median,Lab_Date,10,208.708333,20.8708,9.0994,<.0001,81.2%,18.8%
+,N2-PD1073_0,Lab_Date,KM median,Error,21,48.166667,2.2937,,,,
+,N2-PD1073_0,Lab_Date,KM median,C. Total,31,256.875,,,,,
+,N2-PD1073_50000,Lab_Date,KM median,Lab_Date,9,322.776882,35.8641,18.1846,<.0001,88.6%,11.4%
+,N2-PD1073_50000,Lab_Date,KM median,Error,21,41.416667,1.9722,,,,
+,N2-PD1073_50000,Lab_Date,KM median,C. Total,30,364.193548,,,,,
+,N2-PD1073_70000,Lab_Date,KM median,Lab_Date,9,181.58871,20.1765,5.6307,0.0005,70.7%,29.3%
+,N2-PD1073_70000,Lab_Date,KM median,Error,21,75.25,3.5833,,,,
+,N2-PD1073_70000,Lab_Date,KM median,C. Total,30,256.83871,,,,,
+,QG834_0,Lab_Date,KM median,Lab_Date,8,87.893333,10.9867,3.7669,0.0115,65.3%,34.7%
+,QG834_0,Lab_Date,KM median,Error,16,46.666667,2.9167,,,,
+,QG834_0,Lab_Date,KM median,C. Total,24,134.56,,,,,
+,QG834_100,Lab_Date,KM median,Lab_Date,2,6.666667,3.3333,0.5682,0.5993,18.5%,81.5%
+,QG834_100,Lab_Date,KM median,Error,5,29.333333,5.8667,,,,
+,QG834_100,Lab_Date,KM median,C. Total,7,36,,,,,
+,QG834_1000,Lab_Date,KM median,Lab_Date,2,35.041667,17.5208,3.6757,0.1043,59.5%,40.5%
+,QG834_1000,Lab_Date,KM median,Error,5,23.833333,4.7667,,,,
+,QG834_1000,Lab_Date,KM median,C. Total,7,58.875,,,,,
+,QG834_5000,Lab_Date,KM median,Lab_Date,2,15.208333,7.6042,1.8397,0.2519,42.4%,57.6%
+,QG834_5000,Lab_Date,KM median,Error,5,20.666667,4.1333,,,,
+,QG834_5000,Lab_Date,KM median,C. Total,7,35.875,,,,,
+,QG834_10000,Lab_Date,KM median,Lab_Date,2,22.208333,11.1042,4.3832,0.0795,63.7%,36.3%
+,QG834_10000,Lab_Date,KM median,Error,5,12.666667,2.5333,,,,
+,QG834_10000,Lab_Date,KM median,C. Total,7,34.875,,,,,
+,QG834_50000,Lab_Date,KM median,Lab_Date,5,45.107843,9.0216,4.1638,0.0228,65.4%,34.6%
+,QG834_50000,Lab_Date,KM median,Error,11,23.833333,2.1667,,,,
+,QG834_50000,Lab_Date,KM median,C. Total,16,68.941176,,,,,
