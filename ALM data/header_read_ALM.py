@@ -1,9 +1,9 @@
 import pandas as pd
-df_ThioT = pd.read_excel("ALM_AKG_ThioT.xlsx")
+df_ThioT = pd.read_excel("ALM_AKG_ThioT_using.xlsx")
 columns_list_ThioT = list(df_ThioT.columns)
 df_baseline = pd.read_excel("ALM_baseline.xlsx")
 columns_list_baseline = list(df_baseline.columns)
-df_NP1 = pd.read_excel("ALM_NP1_PG_RVL.xlsx")
+df_NP1 = pd.read_excel("ALM_NP1_PG_RVL.xlsx", sheet_name=1)
 columns_list_PD1 = list(df_NP1.columns)
 df_template = pd.read_excel("ALM_template.xlsx")
 columns_list_template = list(df_template.columns)
@@ -16,6 +16,14 @@ for item in compounds_NP1:
         NP1_no_repeats.append(item)
 
 # print(NP1_no_repeats) All present in table
+
+sorted_df_ThioT = df_ThioT.sort_values("Strain")
+list_strains_ThioT = []
+for item in sorted_df_ThioT["Strain"]:
+    if item not in list_strains_ThioT:
+        list_strains_ThioT.append(item)
+# print(list_strains_ThioT) All strains present in table
+
 
 
 
