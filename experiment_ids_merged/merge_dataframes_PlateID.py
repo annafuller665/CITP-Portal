@@ -1,4 +1,5 @@
 import pandas as pd
+import os
 # Test round
 manuals_df = pd.read_excel("/Users/phillipscitp/Desktop/CITP-Portal/Green Tea Extract/2.0_P3_manuals.xlsx")
 manuals_output = pd.read_excel("/Users/phillipscitp/Desktop/CITP-Portal/output_manuals.xlsx")
@@ -12,3 +13,12 @@ def merge(xlsx1: str, xlsx2: str, desired_filename: str): # xlsx1 and xlsx2 are 
     df3.to_excel(f"{desired_filename}.xlsx")
 # merge("/Users/phillipscitp/Desktop/CITP-Portal/ALM data/ALM_NP1_PG_RVL_sorted_columns.xlsx", "/Users/phillipscitp/Desktop/CITP-Portal/output_alm.xlsx", "alm_NP1_exp_id")
 
+# assign directory
+directory = "insert_name_here"
+output_file = "insert_name_here"
+merged_filename = "insert_name_here"
+# iterate over files in that directory
+for filename in os.listdir(directory):
+    f = os.path.join(directory, filename)
+    if os.path.isfile(f):
+        merge(f, output_file, merged_filename)
